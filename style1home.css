@@ -1,0 +1,125 @@
+
+body {
+  /* Old browsers */
+  /* background: #ACF0DE*/
+  background: white;
+  /* Chrome 10-25, Safari 5.1-6 */
+  /*background: -webkit-linear-gradient(-45deg, #C0DED7, #ACF0DE);*/
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /*background: linear-gradient(-45deg, #C0DED7, #ACF0DE);*/
+  margin: auto;
+  padding: 0;
+}
+
+.heading {
+	background-color: white;
+	margin-top: 20px;
+}
+
+.header-content {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.homebutton {
+	outline: none;
+	background: none;
+	border: none;
+	position: relative;
+}
+
+.search {
+	margin: 0 auto;
+}
+
+.name {
+	padding-left: 15px;
+	display: inline-block;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	font-size: 35px;
+	height: 60px;
+	
+}
+
+.navbar {
+	display: inline-block;
+	align-items: center;
+	margin: auto;
+	padding-left: 20px;
+	padding-right: 220px;
+
+}
+
+.shop {
+	outline: none;
+	background: none;
+	border: none;
+	font-size: 20px;
+	padding-right: 30px;
+}
+
+.about {
+	outline: none;
+	background: none;
+	border: none;
+	font-size: 20px;
+	padding-right: 30px;
+}
+
+.contact {
+	outline: none;
+	background: none;
+	border: none;
+	font-size: 20px;
+	padding-right: 30px;
+}
+
+.navigation {
+	background-color: white;
+  overflow: hidden;
+	width: 1300px;
+}
+
+
+
+.adtitle {
+  color: #000;
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  margin: 100px;
+  display: inline-block;
+  height: 30px;
+  width: 500px;
+
+}
+
+.shortad {
+  color: #000;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  margin: 100px;
+  display: inline-block;
+  height: 30px;
+  width: 500px;
+  
+}
+
+.shortad2 {
+  color: #000;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  margin: 100px;
+  display: inline-block;
+  height: 30px;
+  width: 500px;
+  padding-top: -50px;
+}
+
+.bodytext{
+	background-color: #ACF0DE;
+
+}
