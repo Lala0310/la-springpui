@@ -1,0 +1,17 @@
+body {
+  	background: white;
+  	margin: auto;
+  	padding: 0;
+}
+
+.main-text {
+  color: red;
+}  
+
+#intro {
+  color: green;
+}
+
+p {
+  color: blue;
+}
